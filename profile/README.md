@@ -8,7 +8,7 @@
 🦀 🚀
 </div>
 
-Macrocheira is a Mastodon server that is written in Rust. It's still in the early stage of development. We are trying to implement the [Mastodon API](https://docs.joinmastodon.org/api/) and [ActivityPub](https://www.w3.org/TR/activitypub/) in Rust.
+Macrocheira is a simple, fast Mastodon server write in Rust. It's still in the early stage of development. We are trying to implement the [Mastodon API](https://docs.joinmastodon.org/api/) and [ActivityPub](https://www.w3.org/TR/activitypub/) in Rust.
 
 ## Why Rust?
 We believe Rust is a good language to write Mastodon server. It's fast, safe, and has good memory management system. We are trying to make Mastodon server more secure and faster. We are also trying to make esay to everyone to has a Mastodon server with less cost, we think Rust is a good language to do that.
